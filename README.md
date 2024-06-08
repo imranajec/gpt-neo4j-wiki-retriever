@@ -71,7 +71,7 @@ Use the provided `ChatSession` class to ask questions about Sachin Tendulkar and
 - **Dependency on Wikipedia:**  The knowledge base is limited to the information available on Wikipedia. 
 - **API Limits:**  Frequent use of OpenAI API can be costly and subject to rate limits. 
 - **Performance:**  Response times may vary depending on the complexity of queries and data size.
-## Contributing
+
 
 
 ## License
